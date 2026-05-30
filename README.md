@@ -1,4 +1,4 @@
-#### 💫 About Me
+#### 💫 About me
 
 Passionate about building clean, responsive, and user-friendly mobile applications using Flutter.
 I focus on delivering real value through practical, efficient.
